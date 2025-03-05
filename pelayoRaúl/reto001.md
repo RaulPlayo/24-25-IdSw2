@@ -33,8 +33,8 @@
 
 
 ### **1. Nombres Poco Descriptivos**  
-- **Línea 1:** `whacAMole` → No sigue **CamelCase** (debería ser `WhacAMole`).  
-- **Línea 9:** `monigote`, `monigote1` → Nombres en español y no revelan su propósito (deberían ser `molePosition1`, `molePosition2`).  
+- **Línea 3:** `whacAMole` → No sigue **CamelCase** (debería ser `WhacAMole`).  (https://github.com/RaulPlayo/prg1-22-23/blob/e4b923764dab705734184aeb66b77f8b94f033cd/retos/entregas/WhacAMole/whacAMole.java#L3)
+- **Línea 9:** `monigote`, `monigote1` → Nombres en español y no revelan su propósito (deberían ser `molePosition1`, `molePosition2`). (https://github.com/RaulPlayo/prg1-22-23/blob/e4b923764dab705734184aeb66b77f8b94f033cd/retos/entregas/WhacAMole/whacAMole.java#L9)
 - **Línea 4:** `dimension` → No indica que representa el tamaño del tablero (mejor `gridSize`).  
 
 ### **2. Variables con Nombres Confusos**  
